@@ -1,5 +1,3 @@
-wwdc-swift
-==========
 Swift from 2014 WWDC
 
 ### Introduction Swift
